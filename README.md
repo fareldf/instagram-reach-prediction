@@ -3,9 +3,9 @@
 Instagram has become a key platform for media to distribute content and engage audiences. This project analyzes content characteristics, posting patterns, account attributes, and engagement metrics to identify factors influencing post reach and develop machine learning models to predict Instagram reach.
 
 ## Objectives
-- Analyze reach, engagement, and posting behavior across media profiles to identify content performance patterns using Python.
+- Analyzed Instagram performance data from five Indonesian news media accounts using Python to identify trends in reach, engagement, posting behavior, and content characteristics.
 - Predict Instagram reach through machine learning models and determine the most effective approach.
-- Built interactive dashboard using Tableau.
+- Built an interactive Tableau dashboard and created a presentation deck in Canva to communicate insights.
 
 ## Dataset
 The data is downloaded from [SocialInsider](https://app.socialinsider.io/). This dataset were collected between 26 May and 24 June 2026 in a CSV format.
